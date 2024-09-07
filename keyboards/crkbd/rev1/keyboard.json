@@ -1,5 +1,6 @@
 {
     "features": {
+        "rgb_matrix": false,
         "rgblight": true
     },
     "split": {
